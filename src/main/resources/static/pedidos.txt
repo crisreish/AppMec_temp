@@ -1,0 +1,4 @@
+0;COMPERJ;REF5561;13565001;0
+A;Caldeira Aço Inox;1000;N;S;5561;3
+C;Condensador Vapor Super Aquecido;1000;N;S;8085;2
+T;Tanque 10000L;N;S;800;9707;1
